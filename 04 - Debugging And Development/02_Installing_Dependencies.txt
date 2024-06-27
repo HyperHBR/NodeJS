@@ -1,0 +1,11 @@
+Step 1:
+-> npm install pkgName [--save-dev/-g/....]
+-> -g : Globally
+-> --save-dev : For Development Only
+-> --save : For Production Only
+-> --save-optional : For Optional Dependencies
+
+
+Step2: 
+-> Check package.json
+-> "pkgName": "^__.__.__" --> ^ Means That Whenever npm install is called It Will Automaticcaly Update

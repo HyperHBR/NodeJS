@@ -1,0 +1,5 @@
+There Are Three Types Of Errors: 
+
+1. Syntax
+2. Runtime
+3. Logicala
